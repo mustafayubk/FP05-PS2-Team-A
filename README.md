@@ -201,3 +201,15 @@ colab/                             computational artifact (Colab simulation)
 ## Attribution
 
 Theory: Vickrey (1961), Clarke (1971), and Groves (1973) for the VCG mechanism. The course materials for COMPSCI/ECON 206 provide the solution-concept framing. AI assistance is disclosed in [colab/AI_USE.md](colab/AI_USE.md). Full references are in the proposal.
+
+
+
+
+
+
+
+
+
+
+
+
